@@ -1,5 +1,4 @@
 fastapi
-uvicorn
+uvicorn[standard]
 strawberry-graphql
 python-dotenv
-
