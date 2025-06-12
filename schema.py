@@ -7,3 +7,4 @@ class Query:
         return "Hello from Chat Backend!"
 
 schema = strawberry.Schema(query=Query)
+
